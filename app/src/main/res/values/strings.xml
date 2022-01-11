@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FriendsApp</string>
+    <string name="affirmation1">Only those who care about you can hear you when you’re quiet.</string>
+    <string name="affirmation2">True friendship isn’t about being inseparable. It’s being separated and nothing changes.</string>
+    <string name="affirmation3">Good friends are like stars. You don’t always see them but you know they are there.</string>
+    <string name="affirmation4">True friends aren’t the ones who make your problems disappear. They are the ones who won’t disappear when you are facing problems.</string>
+    <string name="affirmation5">Friends become our chosen family.</string>
+    <string name="affirmation6">Friends are the people who make you smile brighter, laugh louder and live better. </string>
+    <string name="affirmation7">A friend is someone who understands your past, believes in your future, and accepts you just the way you are.</string>
+    <string name="affirmation8">True friends are never apart, maybe in distance, but never in heart.</string>
+    <string name="affirmation9">Remember, the greatest gift is not found in the store but in the hearts of true friends.</string>
+    <string name="affirmation10">Best friends make the good times better and hard times easier.</string>
+</resources>
